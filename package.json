@@ -1,0 +1,27 @@
+{
+  "name": "eslint-plugin-eslint-no-invalid-this-except",
+  "version": "0.0.0",
+  "description": "The same as eslint-no-invalid-this, except checking sepcified functions",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "Termina1",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha tests --recursive",
+    "test-watch": "mocha tests --recursive -w"
+  },
+  "dependencies": {
+    "requireindex": "~1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "~2.6.0",
+    "mocha": "^2.4.5"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "ISC"
+}
