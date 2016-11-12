@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-eslint-no-invalid-this-except",
+  "name": "eslint-plugin-no-invalid-this-except",
   "version": "0.0.0",
   "description": "The same as eslint-no-invalid-this, except checking sepcified functions",
   "keywords": [
