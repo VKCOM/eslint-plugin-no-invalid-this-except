@@ -13,7 +13,7 @@ $ npm i eslint --save-dev
 Next, install `eslint-plugin-no-invalid-this-except`:
 
 ```
-$ npm install eslint-plugin-eslint-no-invalid-this-except --save-dev
+$ npm install eslint-plugin-no-invalid-this-except --save-dev
 ```
 
 **Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-no-invalid-this-except` globally.
